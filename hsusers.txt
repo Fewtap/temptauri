@@ -1,0 +1,29 @@
+Rom #	Romtype		Book.#	Gjestenavn		Ankomst	Netter	Avreise	Anmerking	Balanse	
+102  	DR   	Rom	025384    	Eik, Øystein	1	27.10.2023 00:00:00	2	29.10.2023 00:00:00		0,00	
+104  	DR   	Rom	025385    	Fatland, Håvard	1	27.10.2023 00:00:00	2	29.10.2023 00:00:00		1 225,00	
+106  	DR   	Rom	027275    	, Live	1	28.10.2023 00:00:00	1	29.10.2023 00:00:00	Betaler ved ankomst//MJ	0,00	
+110  	DR   	Rom	025388    	Tvedt, Eivind \ , Ina	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00	spør om minibar//TLA	1 775,00	
+114  	DR   	Rom	025529    	Gundersen, Sissel	2	28.10.2023 00:00:00	1	29.10.2023 00:00:00	Betalar ved ankomst /NBA	0,00	
+115  	DRV  	Rom	026631    	Halsnes, Vetle	4	27.10.2023 00:00:00	2	29.10.2023 00:00:00	Betaler for første natten. //MJ
+ZD: 76428	2 974,00	
+116  	DR   	Rom	025478    	Tønnessen, Kenneth	2	28.10.2023 00:00:00	1	29.10.2023 00:00:00	Betalte ved ankomst /NBA	0,00	
+204  	HC   	Rom	026508    	Aslaksen, Tom	2	28.10.2023 00:00:00	1	29.10.2023 00:00:00	Betaler ved ankomst//TLA	0,00	
+207  	DRV  	Rom	025391    	Skaaluren, Helge  \ , Anita	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		1 675,00	
+208  	DR   	Rom	027195    	Birkmanis, Janis	2	28.10.2023 00:00:00	1	29.10.2023 00:00:00	Var innom og betalte i forveien // ESJ	0,00	
+209  	DRV  	Rom	025392    	Flatebø, Jan \ Kari, Ann	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		0,00	
+210  	DR   	Rom	027196    	Birkmanis, Janis	2	28.10.2023 00:00:00	1	29.10.2023 00:00:00	Betaling ligger på 208 // ESJ	0,00	
+211  	DRV  	Rom	025393    	Hansen, Christian \ , Anette	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		1 637,00	
+212  	DR   	Rom	025380    	Gjerde, Jens	1	27.10.2023 00:00:00	2	29.10.2023 00:00:00		0,00	
+214  	DR   	Rom	025381    	Skåla, Eirik	1	27.10.2023 00:00:00	2	29.10.2023 00:00:00		976,00	
+216  	DR   	Rom	025382    	Bakke, Terje	1	27.10.2023 00:00:00	2	29.10.2023 00:00:00		210,00	
+301  	DRV  	Rom	025394    	Holte, Rune Jarl \ , Anja	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		0,00	
+303  	DRV  	Rom	025395    	Dyrkolbotn, Rune \ Ann, Kristin	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		0,00	
+305  	DRV  	Rom	025396    	Kaldheim, Øyvind \ , Liv	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		0,00	
+307  	DRV  	Rom	025397    	Helle, Kim Arne	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		0,00	
+309  	DRV  	Rom	025398    	Valvatne, Tor \ , Christin	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		0,00	
+311  	DRV  	Rom	025399    	Enes, Øystein	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00		350,00	
+315  	SU3  	Rom	025467    	Dalen, Ann-Kristin	2	27.10.2023 00:00:00	2	29.10.2023 00:00:00	Betaler ved utsjekk //NBA	5 224,00	
+4118 	L6   	Rom	027045    	Hoel Tyssen, Kristin	4	27.10.2023 00:00:00	2	29.10.2023 00:00:00	Opphold PP (4020) // ESJ	0,00	
+E12  	09   	Rom	024172    	Kjono, Jan Borge	6	27.10.2023 00:00:00	2	29.10.2023 00:00:00	Virituelt kort belastet // ESJ	0,00	
+E13  	09   	Rom	025580    	Bergskås, Kari	6	27.10.2023 00:00:00	2	29.10.2023 00:00:00	Betalte ved ankomst // ESJ
+Lovet sen utsjekk (13:00) /NBA	0,00	
